@@ -1,4 +1,6 @@
 #!/bin/bash
 echo the school is open!
-the school is open!
-!l
+The school is open!
+["The school is open!"]
+["The school is open"]
+
